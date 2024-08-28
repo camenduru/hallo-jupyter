@@ -7,7 +7,6 @@
 | Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/hallo-jupyter/blob/main/hallo_jupyter.ipynb) | hallo_jupyter (Pro Colab 😭 ~19GB RAM)
-<a target="_blank" href="https://lightning.ai/camenduru/studios/hallo-jupyter"> <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/></a> | hallo_jupyter (Free Lightning Studio)
 
 ### 🧬 Code
 https://github.com/fudan-generative-vision/hallo
